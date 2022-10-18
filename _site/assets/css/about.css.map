@@ -1,0 +1,14 @@
+{
+	"version": 3,
+	"file": "about.css",
+	"sources": [
+		"about.scss",
+		"_sass/about.scss"
+	],
+	"sourcesContent": [
+		"@import \"about\";",
+		"body {\r\n\tmargin-top: 40px;\r\n\tbackground-color: black;\r\n\ttext-align: center;\r\n}\r\n\r\n@font-face {\r\n  font-family: Blox;\r\n  src: url(../../assets/fonts/Blox2.ttf);\r\n}\r\n\r\na {\r\n\tcolor: red;\r\n\ttext-decoration: none;\r\n\tfont-family: Blox;\r\n}\r\n\r\np {\r\n\tcolor: #d0d0d0;\r\n}\r\n\r\n#mainC {\r\n\tfont-size: 100%;\r\n}\r\n\r\n#cc {\r\n\tfont-size: 85%;\r\n}\r\n\r\n#hder {\r\n\tfont-size: 4rem;\r\n  color: red;\r\n  text-decoration: none;\r\n  font-family: Blox;\r\n  letter-spacing: 7px;\r\n  display: flex;\r\n  justify-content: center;\r\n}"
+	],
+	"names": [],
+	"mappings": "ACAA,AAAA,IAAI,CAAC,EACJ,UAAU,EAAE,IAAI,EAChB,gBAAgB,EAAE,KAAK,EACvB,UAAU,EAAE,MAAM,GAClB;;AAED,UAAU,GACR,WAAW,EAAE,IAAI,EACjB,GAAG,EAAE,iCAAiC;;AAGxC,AAAA,CAAC,CAAC,EACD,KAAK,EAAE,GAAG,EACV,eAAe,EAAE,IAAI,EACrB,WAAW,EAAE,IAAI,GACjB;;AAED,AAAA,CAAC,CAAC,EACD,KAAK,EAAE,OAAO,GACd;;AAED,AAAA,MAAM,CAAC,EACN,SAAS,EAAE,IAAI,GACf;;AAED,AAAA,GAAG,CAAC,EACH,SAAS,EAAE,GAAG,GACd;;AAED,AAAA,KAAK,CAAC,EACL,SAAS,EAAE,IAAI,EACd,KAAK,EAAE,GAAG,EACV,eAAe,EAAE,IAAI,EACrB,WAAW,EAAE,IAAI,EACjB,cAAc,EAAE,GAAG,EACnB,OAAO,EAAE,IAAI,EACb,eAAe,EAAE,MAAM,GACxB"
+}

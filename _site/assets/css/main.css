@@ -1,0 +1,19 @@
+@font-face { font-family: Blox; src: url(../../assets/fonts/Blox2.ttf); }
+
+@font-face { font-family: Fluox; src: url(../../assets/fonts/Fluox.ttf); }
+
+body { background: black; margin-top: 40px; }
+
+a { text-decoration: none !important; color: red; }
+
+#hder { font-size: 4rem; color: red; text-decoration: none; font-family: Blox; letter-spacing: 7px; display: flex; justify-content: center; }
+
+#dpdownic { position: relative; background-color: red; width: 50px; height: 30px; -webkit-mask-size: 100%; border-top-left-radius: 20px; border-bottom-right-radius: 20px; z-index: -2; }
+
+.aboutCl { position: relative; top: -250px; }
+
+.aboutLn { background-color: transparent; padding: 15px 0 0 35px; display: inline-block flex; justify-content: center; z-index: -1; }
+
+.titles { font-family: Fluox; padding: 150px 0 0 20%; font-size: 100%; }
+
+/*# sourceMappingURL=main.css.map */

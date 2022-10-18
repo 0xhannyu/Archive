@@ -1,0 +1,15 @@
+body { margin-top: 40px; background-color: black; text-align: center; }
+
+@font-face { font-family: Blox; src: url(../../assets/fonts/Blox2.ttf); }
+
+a { color: red; text-decoration: none; font-family: Blox; }
+
+p { color: #d0d0d0; }
+
+#mainC { font-size: 100%; }
+
+#cc { font-size: 85%; }
+
+#hder { font-size: 4rem; color: red; text-decoration: none; font-family: Blox; letter-spacing: 7px; display: flex; justify-content: center; }
+
+/*# sourceMappingURL=about.css.map */
