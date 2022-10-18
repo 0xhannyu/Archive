@@ -6,7 +6,7 @@ a { color: red; text-decoration: none; font-family: Blox; }
 
 p { color: #d0d0d0; }
 
-#mainC { font-size: 100%; }
+#mainC { margin-top: 50px; font-size: 100%; }
 
 #cc { font-size: 85%; }
 

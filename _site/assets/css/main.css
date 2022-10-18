@@ -10,10 +10,10 @@ a { text-decoration: none !important; color: red; }
 
 #dpdownic { position: relative; background-color: red; width: 50px; height: 30px; -webkit-mask-size: 100%; border-top-left-radius: 20px; border-bottom-right-radius: 20px; z-index: -2; }
 
-.aboutCl { position: relative; top: -250px; }
+.aboutCl { display: flex; position: relative; top: -250px; }
 
-.aboutLn { background-color: transparent; padding: 15px 0 0 35px; display: inline-block flex; justify-content: center; z-index: -1; }
+.aboutLn { background-color: transparent; display: flex; justify-content: center; }
 
-.titles { font-family: Fluox; padding: 150px 0 0 20%; font-size: 100%; }
+.titles { font-family: Fluox; margin: 100px 0 0 20%; font-size: 100%; }
 
 /*# sourceMappingURL=main.css.map */
