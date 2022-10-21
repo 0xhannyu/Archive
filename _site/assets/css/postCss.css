@@ -8,6 +8,6 @@ body { background: black; margin-top: 40px; }
 
 .al-content { margin-left: 15%; margin-right: 15%; }
 
-.content { color: #d0d0d0; text-align: left; font-size: 100%; padding-top: 2px; letter-spacing: 2px; }
+.content { font-family: Verdana,Helvetica,Arial,sans-serif; line-height: 1.5rem; color: #d0d0d0; text-align: left; font-size: 1rem; padding-top: 2px; letter-spacing: 2px; }
 
 /*# sourceMappingURL=postCss.css.map */

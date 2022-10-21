@@ -6,7 +6,7 @@ a { color: red; text-decoration: none; font-family: Blox; }
 
 p { color: #d0d0d0; }
 
-#mainC { margin-top: 50px; font-size: 100%; }
+#mainC { font-family: Verdana,Helvetica,Arial,sans-serif; line-height: 1.5rem; margin-top: 50px; font-size: 110%; }
 
 #cc { font-size: 85%; }
 
