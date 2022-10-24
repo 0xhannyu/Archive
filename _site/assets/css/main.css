@@ -14,7 +14,7 @@ a { text-decoration: none !important; color: red; }
 
 .aboutLn { background-color: transparent; display: flex; justify-content: center; }
 
-.titles { font-family: Fluox; padding: 150px 0 0 20%; }
+.titles { font-family: Fluox; margin: 150px 0 0 20%; }
 
 .titles a { padding-top: 20px; position: static; }
 
