@@ -1,15 +1,13 @@
-body { margin-top: 40px; background-color: black; text-align: center; }
+body { margin-top: 40px; background-color: black; color: red; text-align: center; }
 
 @font-face { font-family: Blox; src: url(../../assets/fonts/Blox2.ttf); }
 
 a { color: red; text-decoration: none; font-family: Blox; }
 
-p { color: #d0d0d0; }
+#mainC { margin: 50px 0 0 0; font-size: 110%; }
 
-#mainC { font-family: Verdana,Helvetica,Arial,sans-serif; line-height: 1.5rem; margin-top: 50px; font-size: 110%; }
+#cc { font-size: 90%; }
 
-#cc { font-size: 85%; }
-
-#hder { font-size: 4rem; color: red; text-decoration: none; font-family: Blox; letter-spacing: 7px; display: flex; justify-content: center; }
+#hder { font-size: 4rem; letter-spacing: 2px; letter-spacing: 7px; position: static; z-index: -1; }
 
 /*# sourceMappingURL=about.css.map */
