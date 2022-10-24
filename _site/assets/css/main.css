@@ -16,6 +16,6 @@ a { text-decoration: none !important; color: red; }
 
 .titles { font-family: Fluox; margin: 150px 0 0 20%; }
 
-.titles a { padding-top: 20px; position: static; }
+.titles a { position: static; }
 
 /*# sourceMappingURL=main.css.map */
