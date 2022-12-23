@@ -6,7 +6,7 @@ body { background: black; margin-top: 40px; }
 
 a { text-decoration: none !important; color: red; }
 
-#hder { font-size: 4rem; letter-spacing: 2px; font-family: Blox; letter-spacing: 7px; position: static; margin-left: 40%; z-index: -1; }
+#hder { font-size: 4rem; letter-spacing: 2px; font-family: Blox; letter-spacing: 7px; position: static; text-align: center; z-index: -1; }
 
 #dpdownic { position: relative; background-color: red; width: 50px; height: 30px; -webkit-mask-size: 100%; border-top-left-radius: 20px; border-bottom-right-radius: 20px; z-index: -2; }
 
@@ -14,7 +14,7 @@ a { text-decoration: none !important; color: red; }
 
 .aboutLn { background-color: transparent; display: flex; justify-content: center; }
 
-.titles { font-family: Fluox; margin: 150px 0 0 20%; }
+.titles { font-family: Fluox; margin: 150px 0 0 0; text-align: center; }
 
 .titles a { position: static; }
 

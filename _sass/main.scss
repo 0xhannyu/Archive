@@ -24,7 +24,7 @@ a {
   font-family: Blox;
   letter-spacing: 7px;
   position: static;
-  margin-left: 40%;
+  text-align: center;
   z-index: -1;
 }
 
@@ -53,7 +53,8 @@ a {
 
 .titles {
   font-family: Fluox;
-  margin: 150px 0 0 20%;
+  margin: 150px 0 0 0;
+  text-align: center;
 }
 
 .titles a {
