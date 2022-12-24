@@ -39,3 +39,13 @@ body {
 	padding-top: 2px;
 	letter-spacing: 2px;
 }
+
+::-webkit-scrollbar {
+  width: 12px;
+  background-color: #333;
+}
+
+::-webkit-scrollbar-thumb {
+  border-radius: 10px;
+  background-color: #666;
+}
