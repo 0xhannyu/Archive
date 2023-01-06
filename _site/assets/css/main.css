@@ -2,11 +2,11 @@
 
 @font-face { font-family: Fluox; src: url(../../assets/fonts/Fluox.ttf); }
 
-body { background: black; margin-top: 40px; }
+body { background: black; margin-top: 1%; }
 
 a { text-decoration: none !important; color: red; }
 
-#abRd { background-color: red; width: 50px; height: 30px; border-top-left-radius: 20px; border-bottom-right-radius: 20px; top: 0; left: 0; }
+#abRd { background-color: red; width: 50px; height: 30px; border-top-left-radius: 20px; border-bottom-right-radius: 20px; margin-bottom: 3%; top: 0; left: 0; }
 
 #hder { font-size: 4rem; letter-spacing: 2px; font-family: Blox; letter-spacing: 7px; z-index: -1; text-align: center; display: block; }
 
